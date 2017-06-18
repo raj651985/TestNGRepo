@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PhantomHeadLessBrowser Test Suite" verbose="2">
+    <test name="TestNG Test Group">
+        <classes>
+        <class name="org.app.HeadlessBrowserDemo"/>
+       <!--  <class name="com.app.TestB"/> -->
+        </classes>
+    </test>
+</suite>
